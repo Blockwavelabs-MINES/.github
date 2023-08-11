@@ -1,12 +1,25 @@
-## Hi there 👋
+# MINES
+## LSD project on TON network
+<img width="80%" src="https://github.com/Nex-TON/.github/assets/96057861/8b4b8251-0078-44e8-a0b8-6bd498c75d47">
 
-<!--
+## What is MINES? 
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### How to use
+- [Demo Video]
+
+# Project Structure
+## Frontend
+- Client part of the project. It handles the part where the user interacts with the Metamask.
+- Using React.js, Metamask extension and web3 library
+- **Visit Frontend Repository**
+https://github.com/Blockwavelabs-MINES/MINES-frontend
+
+## Server
+- Server part of the project, contains a Twitter API
+- Created using Java spring
+- **Visit Backend Repository**  
+https://github.com/Blockwavelabs-MINES/MINES-backend
+
+# Live product
+https://3tree.io
