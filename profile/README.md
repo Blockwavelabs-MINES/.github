@@ -1,6 +1,6 @@
 # MINES
-## LSD project on TON network
-<img width="80%" src="https://github.com/Nex-TON/.github/assets/96057861/8b4b8251-0078-44e8-a0b8-6bd498c75d47">
+## MINES project on Ethereume network
+![mines](https://github.com/Blockwavelabs-MINES/.github/assets/121910068/60e9d828-83b8-491f-b95e-953125e370fc)
 
 ## What is MINES? 
 
