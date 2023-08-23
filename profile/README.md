@@ -1,6 +1,6 @@
 # MINES
 ## MINES project on Ethereume network
-![mines](https://github.com/Blockwavelabs-MINES/.github/assets/121910068/60e9d828-83b8-491f-b95e-953125e370fc)
+<image src="https://github.com/Blockwavelabs-MINES/.github/assets/121910068/60e9d828-83b8-491f-b95e-953125e370fc" width="90%" />
 
 ## What is MINES? 
 
